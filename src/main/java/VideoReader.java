@@ -17,7 +17,7 @@ public class VideoReader {
 		{"kata3", "/Users/josejuanhernandez/Downloads/40975-Kata 4. URL del video-329424"}
 	};
 	static Path Target = Path.of("triples.md");
-	static String Separator = "#" + (LocalDate.now().toString() + "\n\n");
+	static String Separator = "# " + (LocalDate.now().toString() + "\n\n");
 
 	public static void main(String[] args) throws IOException {
 		Set<String> set = Target.toFile().exists() ? new HashSet<>(Files.readAllLines(Target)) : Set.of();
