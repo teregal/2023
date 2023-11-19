@@ -1,7 +1,11 @@
 2023-11-19
+
 Giovanni León Corujo	kata1	https://drive.google.com/file/d/1jgzLj1Xg-5gk8KWT5qOmbA0rSClU3E43/view?usp=sharing
+
 Santiago Ramírez Olivares	kata1	https://www.youtube.com/watch?v=HnbeAvn1wG8
+
 Pablo Carballo Ramos	kata1	https://youtu.be/mE7Ld7jUDM8
+
 Alejandro Pérez Viera	kata1	https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/alejandro_perez135_alu_ulpgc_es/ERp0qiWf5X5Nl82XspAUMKsBrNOBMsCvO7Wx9Iro9JeRmQ?e=Y8gyRF
 Agustín Alfonso González Iríbar	kata1	https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/agustin_gonzalez112_alu_ulpgc_es/EWgmJ4Hu7SlDmNiC2HUhSzUBIx0Qzwh1v7hTX8yT1bEQUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&amp;e=t3dKDg
 Juan Jesús Suárez Miranda	kata1	https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/juan_suarez139_alu_ulpgc_es/EZ9kVytbxUtGvAl0_PotI4IBw8Vu8jDj1Olwvtc-Dsn4ig?e=9JE2uT&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
