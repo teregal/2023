@@ -29,7 +29,7 @@ public class VideoReader {
 				if (!file.isDirectory()) continue;
 				String name = file.getName().split("_")[0];
 				String url = extractUrl(contentOf(file));
-				String triple = "* " + name + "," + source[0] + "," + url;
+				String triple = "* " + name + " [" + source[0] + "](" + url + ")";
 				if (set.contains(triple)) continue;
 				Files.write(Target, (triple + "\n\n").getBytes(), APPEND);
 			}
