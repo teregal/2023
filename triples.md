@@ -72,5 +72,35 @@
 
 * Alejandro Pérez Viera,kata3,https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/alejandro_perez135_alu_ulpgc_es/ERz-gLJnaBFLhPAT-V6vQ5kBqxRRQvi5zkeWVZjvq3li1Q?e=CSZmNx
 
-* Antonio Manuel Sánchez Ramírez,kata3,https://www.youtube.com/watch?v=AWzecKReqDY
+* Antonio Manuel Sánchez Ramírez,kata4,https://www.youtube.com/watch?v=AWzecKReqDY
+
+# 2023-11-23
+
+* Pedro Romero Suárez,kata1,https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/pedro_romero105_alu_ulpgc_es/EaodzI9CFWdNs06-Nne8624BsNT6F96QqBv4OIowh79OWQ?e=WFqdPL
+
+* Miguel Escobedo Santana,kata1,https://youtu.be/YUwEwzIUmWk
+
+* Jorge Álamo Santana,kata1,https://youtu.be/ZSrL6GyooIg
+
+* Daniel Díaz Martel,kata2,https://youtu.be/XH8dVc3LNjc
+
+* Pedro Romero Suárez,kata2,https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/pedro_romero105_alu_ulpgc_es/EUCOcyydGo9FmHXyjorc7zMBQd18vS9DO3StDQetRP28OQ?e=bXt3K3
+
+* Jorge Álamo Santana,kata2,https://youtu.be/occeM6PEkL0
+
+* Miguel Escobedo Santana,kata2,https://youtu.be/CMgN5GQKJm0
+
+* Miguel Escobedo Santana,kata3,https://youtu.be/qiBSr5xAZ9M
+
+* Pedro Romero Suárez,kata3,https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/pedro_romero105_alu_ulpgc_es/ETHZ5zmNWCpBsqDp3CaWJYsBWiOaGAStt3MUckz7s25EuQ?e=4kI0Ga
+
+* Jorge Álamo Santana,kata3,https://youtu.be/cE4NEJBhASY
+
+* Jorge Álamo Santana,kata4,https://youtu.be/h-WTEKeKpTI
+
+* Pedro Romero Suárez,kata4,https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/pedro_romero105_alu_ulpgc_es/Ecn7WRD4zuVLoeGoLSzsc28BnFwecMtyunWBIHGTd8Fl-A?e=ZcZtgc
+
+* Alejandro Pérez Viera,kata4,https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/alejandro_perez135_alu_ulpgc_es/ERz-gLJnaBFLhPAT-V6vQ5kBqxRRQvi5zkeWVZjvq3li1Q?e=CSZmNx
+
+* Pedro Rodríguez Hernández,kata4,https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/pedro_rodriguez128_alu_ulpgc_es/EZprsGDE4cdDkoS0zdqXLe8Bbd5R-tUbIJVUo8dhf7agHA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=dgAUPc
 

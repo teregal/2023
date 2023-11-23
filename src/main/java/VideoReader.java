@@ -14,7 +14,7 @@ public class VideoReader {
 		{"kata1", "/Users/josejuanhernandez/Downloads/40975-Kata 1. URL del video-329421"},
 		{"kata2", "/Users/josejuanhernandez/Downloads/40975-Kata 2. URL del video-329422"},
 		{"kata3", "/Users/josejuanhernandez/Downloads/40975-Kata 3. URL del video-329423"},
-		{"kata3", "/Users/josejuanhernandez/Downloads/40975-Kata 4. URL del video-329424"}
+		{"kata4", "/Users/josejuanhernandez/Downloads/40975-Kata 4. URL del video-329424"}
 	};
 	static Path Target = Path.of("triples.md");
 	static String Separator = "# " + (LocalDate.now().toString() + "\n\n");
@@ -39,7 +39,7 @@ public class VideoReader {
 	private static String extractUrl(String data) {
 		int i = data.indexOf("http");
 		int j = Math.min(x(data.indexOf("<",i)), x(data.indexOf("\"",i)));
-		return data.substring(i,j);
+		return data.substring(i,j).replace("&amp;", "&");
 	}
 
 	private static int x(int i) {
