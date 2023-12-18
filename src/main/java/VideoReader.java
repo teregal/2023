@@ -15,7 +15,9 @@ public class VideoReader {
 		{"kata2", "/Users/josejuanhernandez/Downloads/40975-Kata 2. URL del video-329422"},
 		{"kata3", "/Users/josejuanhernandez/Downloads/40975-Kata 3. URL del video-329423"},
 		{"kata4", "/Users/josejuanhernandez/Downloads/40975-Kata 4. URL del video-329424"},
-		{"kata5", "/Users/josejuanhernandez/Downloads/40975-Kata 5. URL del video-3294245"}
+		{"kata5", "/Users/josejuanhernandez/Downloads/40975-Kata 5. URL del video-329425"},
+		{"kata6", "/Users/josejuanhernandez/Downloads/40975-Kata 6. URL del video-329426"},
+		{"kata7", "/Users/josejuanhernandez/Downloads/40975-Kata 7. URL del video-329427"}
 	};
 	static Path Target = Path.of("triples.md");
 	static String Separator = "# " + (LocalDate.now().toString() + "\n\n");
@@ -25,6 +27,7 @@ public class VideoReader {
 		Files.write(Target, Separator.getBytes(), CREATE, APPEND);
 		for (String[] source : Sources) {
 			File root = new File(source[1]);
+			if (!root.exists()) continue;
 			File[] files = root.listFiles();
 			for (File file : files) {
 				if (!file.isDirectory()) continue;

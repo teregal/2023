@@ -166,3 +166,93 @@
 
 * Itzhak Prieto Déniz [kata4](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/itzhak_prieto101_alu_ulpgc_es/EddZ5MdDgjFCgFEPM1W7Dt4BVljdfFCFQkKjEPwWBqQ4QQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=680uPW)
 
+# 2023-12-18
+
+* Ángel Hernández Ojeda [kata1](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/angel_hernandez118_alu_ulpgc_es/EWVfeK2fFRpChPwGSs3ds3ABpSvK8RXamlXWQ3lXdT0flA?e=feSctz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+* Acoidán Rodríguez Peña [kata1](https://youtu.be/QZNcr3fb82c)
+
+* Andrea Santana López [kata1](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/andrea_santana123_alu_ulpgc_es/EQQa_TAAvZJEgwXyw4aisJUB1aaC7sturm14kdgKbRF9yQ?e=8gU9E1)
+
+* Pablo González Pérez [kata1](https://youtu.be/cbeqnCx224Q?si=GLCfbigPUodjll9h)
+
+* Yeremay Reinaldo García Déniz [kata1](https://youtu.be/JS-fkBJ_MPY)
+
+* Pablo González Pérez [kata2](https://youtu.be/8ntWU3w6beg)
+
+* Yeremay Reinaldo García Déniz [kata2](https://youtu.be/epRtmQAQVGs)
+
+* Ángel Hernández Ojeda [kata2](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/angel_hernandez118_alu_ulpgc_es/EVmj3o5H0SZDm2HiPfPh520BqO91Rq7yA4BDMKLbnHjHkg?e=duBAJs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+* Acoidán Rodríguez Peña [kata2](https://youtu.be/z-mhhpo2BFg)
+
+* Jericó Luzardo Miranda [kata3](https://youtu.be/I5m-x3srLKM)
+
+* Pablo González Pérez [kata3](https://youtu.be/UfZLgpGWnxk)
+
+* Yeremay Reinaldo García Déniz [kata3](https://youtu.be/F1PkJNOm9pM)
+
+* Agustín Alfonso González Iríbar [kata3](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/agustin_gonzalez112_alu_ulpgc_es/EfZponi8DzVIl1NJfIkflrsBzlnO8ULZ05aTW_2fQY8pnw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N0L5B7)
+
+* Ángel Hernández Ojeda [kata3](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/angel_hernandez118_alu_ulpgc_es/ES4LnFTstmBJmpum3gWRaDgBhHOYPAgTfHISopGs1HB11Q?e=ggjWO8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+* Acoidán Rodríguez Peña [kata3](https://youtu.be/wpHqHwgdJEU)
+
+* Pablo Segura López [kata3](https://youtu.be/-mpkgKvIey8)
+
+* Naixin Chen Zhou [kata3](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/naixin_chen101_alu_ulpgc_es/ERV9SLRzufFGlDtPoaesEUcBRVhBMJUaKTCBUy6LecUbzw?e=ITOqoT)
+
+* Alejandro Pérez Viera [kata3](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/alejandro_perez135_alu_ulpgc_es/EUDkYzLY1HtEkgSRTkk_Vk0BJXs3Mdl6MLTq_01gJYGEUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DeCWvB)
+
+* Jericó Luzardo Miranda [kata4](https://youtu.be/JfOLRt8Xd6A)
+
+* Ángel Hernández Ojeda [kata4](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/angel_hernandez118_alu_ulpgc_es/EZidC1TwhIhNrqvdt25xtigBRcG6MS5b8wFg8fYFCitbHw?e=fQsb40&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+* Agustín Alfonso González Iríbar [kata4](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/agustin_gonzalez112_alu_ulpgc_es/EZ6s66iXZdJMq4WuUfeMZrEBIuOlkR4jgd2w_OJUBbxC5g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YeBLUN)
+
+* Pablo Segura López [kata4](https://youtu.be/9ahdSZflN2U)
+
+* Daniel Moreno López [kata4](https://youtu.be/lpmhYhyFJf4)
+
+* Daniel Cruz López [kata4](https://youtu.be/QQiZK087Sxs)
+
+* Pablo González Pérez [kata4](https://youtu.be/Q3UPTWG7OKg)
+
+* Acoidán Rodríguez Peña [kata4](https://youtu.be/ChzI5UoOg3o)
+
+* Pablo González Pérez [kata5](https://youtu.be/jq_rDgMdgnk?si=E6bUM7NsOdEuYPxn)
+
+* Santiago Ramírez Olivares [kata5](https://www.youtube.com/watch?v=spXsbvEjf7w)
+
+* Miguel Escobedo Santana [kata5](https://youtu.be/edOnOOjXOIk)
+
+* Antonio Manuel Sánchez Ramírez [kata5](https://www.youtube.com/watch?v=uMvX5txoNKA)
+
+* Ángel Hernández Ojeda [kata5](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/angel_hernandez118_alu_ulpgc_es/EcKnxaVIvNdMut4GNKgvfa4BHoU5o8cBd8oMKukMUyWEoA?e=oEomxb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+* Juan Jesús Suárez Miranda [kata5](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/juan_suarez139_alu_ulpgc_es/EZRT_6S5ai5CqY_qrt2k0iMBhLx-6HhpuH5KFCT5U9UxzQ)
+
+* Jorge Álamo Santana [kata5](https://youtu.be/k7R0Bc80pvo)
+
+* Daniel Moreno López [kata5](https://youtu.be/Zze2HaFYvvs)
+
+* Alejandro Pérez Viera [kata5](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/alejandro_perez135_alu_ulpgc_es/EX8b9kAQDzRBhsGpreJNH98BgMEdA50IYIhC6jsnisa_aw?e=lvQjGB)
+
+* Pablo Carballo Ramos [kata5](https://youtu.be/f4OpLQBAEic?si=YWex5Pb0a5fEp6A1)
+
+* Pedro Rodríguez Hernández [kata5](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/pedro_rodriguez128_alu_ulpgc_es/EXWhRW4dskBKlj2Pe27Z-EUBXKFYZ7sBF6EhzPrHo9alzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yTAEz0)
+
+* Jericó Luzardo Miranda [kata5](https://youtu.be/Z4mU1_4ILdg)
+
+* Jericó Luzardo Miranda [kata6](https://youtu.be/d5BSQGFbP-g)
+
+* Miguel Escobedo Santana [kata6](https://youtu.be/YvT8KO-_pJU)
+
+* Pedro Rodríguez Hernández [kata6](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/pedro_rodriguez128_alu_ulpgc_es/Ebx1VuW-w21Pizl7F3dCqBABykZtMIPMlRsZbH6wJTHmkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hIFM2w)
+
+* Antonio Manuel Sánchez Ramírez [kata6](https://www.youtube.com/watch?v=PvXkITiZGhc)
+
+* Alejandro Pérez Viera [kata6](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/alejandro_perez135_alu_ulpgc_es/EWbxUsAJpZNKt1iwA4XyE6MBMeTVYquHTgfxMjnOhHEL2A?e=TVOduy)
+
+* Santiago Ramírez Olivares [kata6](https://youtu.be/lh4OXcFLIJ8)
+
