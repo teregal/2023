@@ -17,7 +17,7 @@ public class VideoReader {
 		{"kata4", "/Users/josejuanhernandez/Downloads/40975-Kata 4. URL del video-329424"},
 		{"kata5", "/Users/josejuanhernandez/Downloads/40975-Kata 5. URL del video-329425"},
 		{"kata6", "/Users/josejuanhernandez/Downloads/40975-Kata 6. URL del video-329426"},
-		{"kata7", "/Users/josejuanhernandez/Downloads/40975-Kata 7. URL del video-329427"}
+		{"kata7", "/Users/josejuanhernandez/Downloads/40975-Kata 7. URL del video-329428"}
 	};
 	static Path Target = Path.of("triples.md");
 	static String Separator = "# " + (LocalDate.now().toString() + "\n\n");
@@ -26,10 +26,12 @@ public class VideoReader {
 		Set<String> set = Target.toFile().exists() ? new HashSet<>(Files.readAllLines(Target)) : Set.of();
 		Files.write(Target, Separator.getBytes(), CREATE, APPEND);
 		for (String[] source : Sources) {
+			System.out.println(source[0]);
 			File root = new File(source[1]);
 			if (!root.exists()) continue;
 			File[] files = root.listFiles();
 			for (File file : files) {
+				System.out.println(file);
 				if (!file.isDirectory()) continue;
 				String name = file.getName().split("_")[0];
 				String url = extractUrl(contentOf(file));
